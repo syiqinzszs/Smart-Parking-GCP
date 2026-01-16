@@ -28,4 +28,4 @@ The `main.py` script is designed to be deployed on **Google Cloud Run Functions*
 To test the system locally, update the `url` variable in `client_simulation.py` with your deployed Cloud Function URL:
 
 ```python
-url = "[https://YOUR-REGION-PROJECT.run.app](https://YOUR-REGION-PROJECT.run.app)"
+url = "https://receive-data-55062664928.asia-southeast1.run.app"
